@@ -1,0 +1,28 @@
+.display {
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+  }
+
+  .display tr {
+    display: flex;
+    flex-direction: column;
+    margin: 3rem;
+    background-color: #F1F1F1;
+    padding: 2% 5%;
+  }
+
+  .display tr td {
+    border: 0 !important;
+  }
+
+  .user-info-first-name h2 a {
+    text-decoration: none;
+    color: #8FA382;
+  }
+
+  .display tr td img {
+    height: 350px;
+    border: 20px solid #8FA382;
+    margin: 0;
+  }

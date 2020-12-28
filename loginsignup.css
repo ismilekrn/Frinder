@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<br><img src=https://i.imgur.com/GfqbIW4.png width=150>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+hr.new1 {
+  border: 30px solid;
+  color: #8FA382;
+}
+hr.login {
+  border-radius: 25px;
+  background: #8FA382;
+  padding: 20px;
+  width: 400px;
+  height: 250px;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+<hr class="new1"><br><br><br><br><br><br><br><br><br>
+<hr class="login"><br><br><br><br><br><br><br><br>
+</body>
+</html>

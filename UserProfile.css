@@ -1,0 +1,102 @@
+.display {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .display tr {
+    display: flex;
+    flex-direction: column;
+    margin: 3rem;
+  }
+  
+  .display tr td {
+    border: 0 !important;
+  }
+  
+  .user-info-full-name h1 {
+    text-decoration: none;
+    color: #8FA382;
+    text-align: center;
+  }
+  
+  .display tr td img {
+    width: 400px;
+    height: 425px;
+    border: 3px solid #8FA382;
+  }
+
+  .body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .user-question {
+      font-weight: bold;
+  }
+
+  .socials {
+    font-weight: bold;
+    text-align: center;
+    color: #8FA382;
+}
+
+  .update {
+    background-color: #8FA382;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin: auto;
+  }
+
+  .user-socials {
+    text-decoration: none;
+    color: #8FA382;
+    text-align: center;
+  }
+
+  a.update {
+    display: block;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .user-question {
+    text-decoration: none;
+    color: #8FA382;
+    text-align: center;
+  }
+
+  .user-answer {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+  }
+
+  .user-info-age-gender {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+  }
+
+  .user-location {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+  }
+
+  .user-school-education {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+  }
+
+  .user-socials a {
+    color: black;
+  }
+  
